@@ -4,4 +4,4 @@ zuul:
       path: /zuul-api/**
       serviceId: siro-api
 siro:
-  name: 测试服务器本地配置文件读取（success）
+  name: 测试服务器本地配置文件读取（fail）
